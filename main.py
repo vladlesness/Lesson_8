@@ -6,3 +6,4 @@ def main_func():
 
 def test_func():
     print('This is test_func. Branch test. Commit 1)
+    print('This is test_func. Branch test. Commit 2)
